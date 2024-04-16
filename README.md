@@ -1,1 +1,1 @@
-These are my projects from Programming Principles 2
+Projects from Programming Principles 2
